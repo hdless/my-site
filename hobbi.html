@@ -30,7 +30,7 @@
 					После этого я улетел в Сочи на спартакиаду детей железнодорожников и занял там второе место,
                                         среди семнадцати железных дорог ОАО "РЖД".
                 </div>
-                <div class="foto"><img src="кобыла.jpg" class="hob1-foto" alt="Фото"></div>
+                <div class="foto"><img src="Кобыла.jpg" class="hob1-foto" alt="Фото"></div>
 				<div class="foto2"><img src="20220320_201512.jpg" class="hob-foto" alt="Фото"></div>
                 <table class="tabliza2">
                     <tr>
